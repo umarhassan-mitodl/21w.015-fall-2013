@@ -1,0 +1,19 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 2db67e25-7c52-d43a-df30-221e09d68622
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 33540496-27de-ca69-9bfb-1460bd06d411
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 18a32e2d-629c-3de0-2173-a04e88a22849
+  name: Calendar, Readings, and Assignments
+  pageRef: /pages/calendar-readings-and-assignments
+  weight: 30
+- identifier: 099f6bf9-f4a1-4551-4e1a-9d3204c8922e
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 40
