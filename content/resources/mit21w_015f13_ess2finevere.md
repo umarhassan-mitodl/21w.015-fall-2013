@@ -4,8 +4,6 @@ description: 'This resource contains information regarding the human element. '
 file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/28dc3d38842032069c9c2e093e7ec73a_MIT21W_015F13_Ess2FinEvere.pdf
 file_size: 315790
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

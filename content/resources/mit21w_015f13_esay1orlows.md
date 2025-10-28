@@ -4,8 +4,6 @@ description: 'This resource contains information regarding the cage. '
 file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/52316f1eab617b7b4f35c9d931e8b6d3_MIT21W_015F13_Esay1Orlows.pdf
 file_size: 563059
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

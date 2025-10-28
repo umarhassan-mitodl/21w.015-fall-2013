@@ -5,8 +5,6 @@ description: This resource contains information regarding Selected List of Class
 file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/008395c6bb4f735dab5607e74ac9e4e2_MIT21W_015F13_Sportmovies.pdf
 file_size: 137241
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

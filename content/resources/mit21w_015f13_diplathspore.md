@@ -4,8 +4,6 @@ description: This resource contains information regarding Playing to His Potenti
 file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/1651024e46962de320d9373f06abeec4_MIT21W_015F13_DiPlaTHsPoRe.pdf
 file_size: 218057
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

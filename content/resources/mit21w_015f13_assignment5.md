@@ -4,8 +4,6 @@ description: This resource contains information regarding assignment 5.
 file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/fcd6815a6bb3eaa9905c3d8d00e51a3a_MIT21W_015F13_Assignment5.pdf
 file_size: 235968
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

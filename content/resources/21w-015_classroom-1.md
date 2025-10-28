@@ -4,8 +4,6 @@ description: ''
 file: /courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/15ec46b36890b57fb1bb50652be18d37_21W-015_classroom-1.jpg
 file_size: 58866
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
